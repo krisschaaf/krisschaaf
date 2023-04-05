@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **a management software**
 
-- 🌱 I’m currently learning **Golang, MongoDB and general IAM**
+- 🌱 Atm I’m learning **Golang, MongoDB and general IAM**
 
 - 👯 I’m looking for general collaborations on **some open source projects**
 

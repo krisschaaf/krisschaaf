@@ -1,4 +1,4 @@
-<h1 align="center">Moin, I'm Kristoffer</h1>
+<h1 align="center">Hey there, I'm Kris!</h1>
 <h3 align="center">A student and part-time fullstack dev from Hamburg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisschaaf&label=Profile%20views&color=0e75b6&style=flat" alt="krisschaaf" /> </p>

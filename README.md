@@ -3,13 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisschaaf&label=Profile%20views&color=0e75b6&style=flat" alt="krisschaaf" /> </p>
 
-- 🔭 I’m currently working on **a management software**
-
-- 🌱 Atm I’m learning **Golang, MongoDB and general IAM**
-
 - 👯 I’m looking for general collaborations on **some open source projects**
 
-- 💬 Ask me about **Angular, Spring, Typescript, Kubernetes**
+- 💬 Ask me about **Angular, Spring, Typescript, Kubernetes, Transformers**
 
 - 📫 How to reach me **kris-schaaf@gmx.de**
 
